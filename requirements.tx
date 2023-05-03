@@ -1,0 +1,15 @@
+anyio==3.6.2
+APScheduler==3.6.3
+beautifulsoup4==4.12.2
+bs4==0.0.1
+cachetools==4.2.2
+certifi==2022.12.7
+charset-normalizer==3.1.0
+h11==0.14.0
+html5lib==1.1
+httpcore==0.16.3
+httpx==0.23.3
+PySocks==1.7.1
+python-telegram-bot==13.13
+requests==2.29.0
+urllib3==1.26.15
